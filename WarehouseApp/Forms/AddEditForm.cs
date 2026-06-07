@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using WarehouseApp.Data;
+//готовый диплом
 
 namespace WarehouseApp.Forms
 {
